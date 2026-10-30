@@ -385,3 +385,5 @@ npm run dev
 <div align="center">
   <sub>Built for the AI Product Engineer Challenge (Assignment 3) • Student Credibility • FastAPI + React Vite Architecture</sub>
 </div>
+#   E D X S O 3  
+ 
